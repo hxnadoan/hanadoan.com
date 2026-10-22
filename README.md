@@ -40,11 +40,12 @@ This is a personal portfolio project that showcased all of my skills, experience
 - Hosted through GitHub Pages.
 - Maintained locally by me through Git :)
 
-## <img src="assets/media/glorp/icons/glorpship.png" width="30px"> Copyright
+## <img src="assets/media/glorp/icons/glorpship.png" width="30px"> License/Copyright
 
 ***DO NOT REDISTRIBUTE MY ART!***
-- All images and artwork belong to me and I do not consent for public or commerical use.
-- No licensing is being provided for this project.
+- All images and artwork belong to me.
+- This project is split-licensed. The logic code is open-source under the MIT License. However, all art and graphics are strictly copyrighted. You may not reuse or redistribute the art.
+
 
 ## <img src="assets/media/angel/icons/heartcloud.png" width="30px"> Assets
 
